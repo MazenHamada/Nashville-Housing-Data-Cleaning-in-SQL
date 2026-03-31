@@ -1,2 +1,2 @@
 # Force specific files to be counted as SQL
-*.sql linguist-language=SQL
+"Data Cleaning Queries.txt" linguist-language=SQL
